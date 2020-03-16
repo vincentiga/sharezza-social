@@ -1,0 +1,15 @@
+➜  sharezza-social git:(master) ✗ git add index.html
+➜  sharezza-social git:(master) ✗ git commit -m' h1 was modified'
+[master 18492de]  h1 was modified
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+➜  sharezza-social git:(master) git push origin master
+Username for 'https://github.com': vincentiga
+Password for 'https://vincentiga@github.com': 
+Décompte des objets: 3, fait.
+Delta compression using up to 8 threads.
+Compression des objets: 100% (3/3), fait.
+Écriture des objets: 100% (3/3), 335 bytes | 335.00 KiB/s, fait.
+Total 3 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/vincentiga/sharezza-social.git
+   4eab9f2..18492de  master -> master
